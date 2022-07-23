@@ -1,0 +1,4 @@
+2022-07-02T14:29:47+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\Program Files\xampp\htdocs\wordpress\wp-content\plugins\wp-clone-template\lib\pclzip.lib.php on line 2018
+
+2022-07-02T14:35:04+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\Program Files\xampp\htdocs\wordpress\wp-content\plugins\wp-clone-template\lib\pclzip.lib.php on line 2059
+
